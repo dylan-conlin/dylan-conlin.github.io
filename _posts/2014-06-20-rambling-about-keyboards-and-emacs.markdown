@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "ramblings about keyboards and emacs"
+date:   2014-06-20 
+categories: ramblings
+---
+
 This is a test of my typing abilities to see if I can successfully type a bunch of thoughts and not slow down or get encumbered by my writing tool--in my case the keyboard. My keyboard is connected to my laptop computer. They keys are small little chiclets, the kind Apple likes so much. I like Apple's keyboards--I've been using them for years now, but I'd like to try a quiet mechanical keyboard. The problem with making the switch is that I'm not sure I'll like a mechanical keyboard and they're expensive--nothing to mess around with (money-wise that is). I guess I could order one with the plan of returning it if it doesn't positively compare to my little Apple chiclet board, but I've always been bad about returning things--even when they're expensive. Sometimes--out of sheer laziness--I'll purchase something greater than or equal to $100, never use it, and never return it! I'm not proud of this fact--it's certainly wasteful. 
 
 I finally enabled a package or setting or something in emacs that persists my M-x history in between sessions--I think it's called session.el? In any case, it's kind of nice seeing my command history when I hit M-x, but not as useful as I thought it would be. I'm pretty sure this is a case of the grass always being greener on the other side. In this case, I couldn’t get it working, so it seemed like an awesome feature I just had to have. Turns out it's a bit of a novelty, not much more.
