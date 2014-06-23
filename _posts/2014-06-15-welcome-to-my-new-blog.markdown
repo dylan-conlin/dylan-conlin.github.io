@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Steps become stairs
+title:  Steps and stairs
 date:   2014-06-22 22:08:33 
 categories: update
 ---
