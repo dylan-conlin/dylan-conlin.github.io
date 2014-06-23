@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Welcome to my new blog"
+title:  Steps become stairs
 date:   2014-06-15 00:54:26
 categories: update
 ---
-
-Eventually this will be my blog.
+A collection of steps is called a stairway, staircase, flight of stairs, etc. By construction, stairs are designed to divide large vertical distances into smaller vertical distances. We climb these small vertical distances when traveling upstairs.
