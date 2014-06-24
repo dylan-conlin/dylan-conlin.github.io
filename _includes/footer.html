@@ -1,13 +1,6 @@
 <footer class="site-footer">
-
   <div class="wrap">
-
     <div class="footer-col-1 column">
-
-    </div>
-
-    <div class="footer-col-2 column">
-      
       <a href="https://github.com/dylan-conlin">
         <span class="icon github">
           <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -25,8 +18,6 @@
         </span>
         <span class="username">{{ site.username }}</span>
       </a>
-      
-      
       <a href="https://twitter.com/dylan_conlin">
         <span class="icon twitter">
           <svg version="1.1" class="twitter-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -42,13 +33,12 @@
         </span>
         <span class="username">{{ site.username }}</span>
       </a>
-      
     </div>
-
+    <div class="footer-col-2 column">
+      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>  
+    </div>
     <div class="footer-col-3 column">
       <p class="text">{{ site.description }}</p>
     </div>
-
   </div>
-
 </footer>
