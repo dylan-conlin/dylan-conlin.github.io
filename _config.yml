@@ -8,3 +8,7 @@ url: "www.dylanconlin.com"
 # Build settings
 markdown: kramdown
 permalink: pretty
+analytics :
+  provider : google 
+  google : 
+      tracking_id : 'UA-52205755-1'
