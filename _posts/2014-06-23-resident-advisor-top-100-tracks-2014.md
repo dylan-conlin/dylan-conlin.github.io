@@ -13,3 +13,7 @@ Oh, I almost forgot -- these 'chart generated playlists' will work great in [plu
 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/rymUSbYQjw8?list=PLBij1U1wQXp4EHPxjjwnB-q2T5zZ44OEL" frameborder="0" allowfullscreen></iframe>
+
+Here's the ruby source:
+
+<script src="https://gist.github.com/dylan-conlin/a9afcb81d0f55bcf381c.js"></script>
