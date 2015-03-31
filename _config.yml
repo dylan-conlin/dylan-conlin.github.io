@@ -1,7 +1,7 @@
 # Site settings
 title: Dylan Conlin
 email: dylan.conlin@gmail.com
-description: "This is Dylan Conlin's blog. It should be here for awhile. It's built with jekyll. Jekyll's sort of meh, but the github pages integration is nice."
+description: "This is Dylan Conlin's blog. It should be here for awhile."
 baseurl: ""
 url: "www.dylanconlin.com"
 
